@@ -1,0 +1,10 @@
+
+.
+├── README.md
+├── app.py
+├── predict.py
+├── requirements.txt
+├── selected_tickets.csv
+├── logistic_regression_model.joblib
+└── tfidf_vectorizer.joblib
+``
